@@ -1,10 +1,8 @@
 # Hey there! 👋 I'm Tocka
 
-📱 Junior iOS Developer | Passionate about Swift
+📱 iOS Developer | Passionate about Swift
 
-🔭 Currently styding in iOS Academy
-
-🌱 Learning UIkit
+🌱 Learning UIkit / SwiftUI
 
 🛠️ Skills: Swift, UIKit, Xcode, Git
 
