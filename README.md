@@ -2,8 +2,6 @@
 
 📱 iOS Developer | Passionate about Swift
 
-🌱 Learning UIkit / SwiftUI
-
 🛠️ Skills: Swift, UIKit, Xcode, Git
 
 📫 Let's connect:
